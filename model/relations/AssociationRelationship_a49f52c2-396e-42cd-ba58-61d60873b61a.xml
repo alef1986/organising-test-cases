@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Негативно влияет - мешает привлекать новых"
+    id="a49f52c2-396e-42cd-ba58-61d60873b61a">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_cdf8f8ea-f259-46eb-88c6-2940a8206b4c.xml#cdf8f8ea-f259-46eb-88c6-2940a8206b4c"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3cdb0a79-d089-4b49-977b-50985a079fc6.xml#3cdb0a79-d089-4b49-977b-50985a079fc6"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="&quot;нас&quot; = &quot;5 человек&quot; => не проблема"
+    id="689a53ef-7a67-4917-927f-44d77dadbe63">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_0a8bbd4b-673e-4425-912f-d605e8c15b37.xml#0a8bbd4b-673e-4425-912f-d605e8c15b37"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_10aac886-1f2d-465d-811a-b62804e7c7a5.xml#10aac886-1f2d-465d-811a-b62804e7c7a5"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Негативно влияет - непонятно, кому и почему интересной"
+    id="fe80bec2-f525-4d50-bc58-429164b0c318">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_20734693-3cf6-48a6-bce5-58c1d7711e3e.xml#20734693-3cf6-48a6-bce5-58c1d7711e3e"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_9067f4ee-e609-4473-a490-5448400586e2.xml#9067f4ee-e609-4473-a490-5448400586e2"/>
+</archimate:AssociationRelationship>

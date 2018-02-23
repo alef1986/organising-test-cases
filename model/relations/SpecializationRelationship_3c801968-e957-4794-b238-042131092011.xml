@@ -1,0 +1,12 @@
+<archimate:SpecializationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ценность плюса снижается"
+    id="3c801968-e957-4794-b238-042131092011">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_3ff68efa-3916-47b3-9b55-44068d79485f.xml#3ff68efa-3916-47b3-9b55-44068d79485f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_083ca9e8-bd60-449f-b70e-876453f66064.xml#083ca9e8-bd60-449f-b70e-876453f66064"/>
+</archimate:SpecializationRelationship>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="негативно влияет"
+    id="8148158d-4f2e-4c0e-9e0b-7b6a0f617cd7">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_231b469f-0b50-4003-a981-ac0e3c413ac7.xml#231b469f-0b50-4003-a981-ac0e3c413ac7"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_e8d00365-ffb1-4614-abc5-ad3511b9ea56.xml#e8d00365-ffb1-4614-abc5-ad3511b9ea56"/>
+</archimate:AssociationRelationship>
